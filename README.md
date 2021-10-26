@@ -1,1 +1,2 @@
-# Cloud-Data-Warehouses
+# AWS Redshift Overview
+# Distkey, Sortkey
