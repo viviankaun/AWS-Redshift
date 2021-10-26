@@ -1,3 +1,10 @@
 # AWS Redshift Project Overview
-![This is an image](https://github.com/viviankaun/Data-Modeling-with-Apache-Cassandra/blob/main/project2.jpeg)
+![This is an image](https://github.com/viviankaun/AWS-Redshift/blob/main/img/Redshift001.jpeg)
 # Distkey, Sortkey
+1. stagingsongs : distkey : userid 
+2. stagingevents: distkey : userid
+
+![This is an image](https://github.com/viviankaun/AWS-Redshift/blob/main/img/Redshift_O1.jpeg)
+![This is an image](https://github.com/viviankaun/AWS-Redshift/blob/main/img/Redshift_O2.jpeg)
+![This is an image](https://github.com/viviankaun/AWS-Redshift/blob/main/img/Redshift_O3.jpeg)
+
